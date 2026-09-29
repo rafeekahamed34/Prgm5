@@ -6,6 +6,6 @@ INSERT INTO Student (StudentID, StudentName, Gender, DepartmentID)
 VALUES (1002, 'Divya', 'Female', 102);
 
 INSERT INTO Student (StudentID, StudentName, Gender, DepartmentID)
-VALUES (1001, 'Karthik', 'Male', 103);
+VALUES (1003, 'Karthik', 'Male', 101);
 
 SELECT*FROM Student;
